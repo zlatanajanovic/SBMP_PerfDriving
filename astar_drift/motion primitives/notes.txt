@@ -1,0 +1,52 @@
+PAR.VEH.delta_str_MAX = 0.06;
+PAR.VEH.lambda_MAX = 0.03;
+
+
+% vehicle data
+PAR.VEH.m =1294;
+PAR.VEH.Cxr = 10^4;
+PAR.VEH.Cyf = 1.5*10^4;
+PAR.VEH.Cyr = 1.5*10^4;
+PAR.VEH.lf = 1.283;
+PAR.VEH.lr = 1.307;
+PAR.VEH.Jz = 1294;
+
+m = 1294;
+lf = 1.283;
+lr = 1.307;
+h_g = 0.589;
+Jz = 1294;
+kf = 4.7e03;
+kr = 4.7e03;
+Re= 0.3;
+bf = 1.6;
+br = 1.7;
+Jwf = 1;
+Jwr = 3;
+
+rho = 1.29;
+Cx = 0.3;
+Cy = 0.5;
+c_roll = 0.01;
+
+
+
+PAR.VEH.terrain = 3;
+%direct_v_beta = 1;
+
+PAR.VEH.coeff_pm = .4; % ratio of vehicle dynamics simulation obtained from "exact" force generation
+
+
+% Vehicle Data
+PAR.VEH.m = m;
+PAR.VEH.lf = lf;
+PAR.VEH.lr = lr;
+PAR.VEH.h_g = h_g;
+PAR.VEH.Jz = Jz;
+PAR.VEH.Re = Re; 
+PAR.VEH.bf = bf; 
+PAR.VEH.br = br; 
+PAR.VEH.Jwf = Jwf; 
+PAR.VEH.Jwr = Jwr; 
+PAR.VEH.kf = kf; 
+PAR.VEH.kr = kr; 
