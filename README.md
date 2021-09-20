@@ -1,9 +1,9 @@
 # Search-Based Motion Planning for Performance Automated Driving
 
-This is a suplementary code for the publication "Search-Based Motion Planning for Performance Autonomous Driving"
-presented on the 26th IAVSD International Symposium on Dynamics of Vehicles on Roads and Tracks
+This is a suplementary code for the publication **"Search-Based Motion Planning for Performance Autonomous Driving"**
+presented on the 26th IAVSD International Symposium on Dynamics of Vehicles on Roads and Tracks.
 
-Full paper preprint is availabe at: https://arxiv.org/abs/1907.07825
+Full paper preprint is availabe at: https://arxiv.org/abs/1907.07825.
 
 ## Running
 To run the code you just need to run `main_v1_0.m` from Matlab Editor.
