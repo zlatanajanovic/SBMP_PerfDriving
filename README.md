@@ -10,7 +10,7 @@ To run the code you just need to run `main_v1_0.m` from Matlab Editor
 
 To enable/disable visualisations comment/uncomment lines in the section `Simulation options` line 15-49 of the `main_v1_0.m`.
 
-To cite this work pleas use:
+To cite this work please use:
 ```
 @inproceedings{ajanovic2019search,
   title={Search-based motion planning for performance autonomous driving},
