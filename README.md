@@ -1,4 +1,4 @@
-# Search-based task and motion planning for hybrid systems: Agile autonomous vehicles
+# Search-based task and motion planning for hybrid systems
 
 This is accompanying code to the "Search-based task and motion planning for hybrid systems: Agile autonomous vehicles".
 
