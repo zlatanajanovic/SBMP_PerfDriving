@@ -1,4 +1,4 @@
-# Search-Based Motion Planning for Performance Automated Driving
+# Search-based task and motion planning for hybrid systems: Agile autonomous vehicles
 
 This is accompanying code to the "Search-based task and motion planning for hybrid systems: Agile autonomous vehicles".
 
