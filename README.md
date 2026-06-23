@@ -14,6 +14,10 @@ To enable/disable visualisations, comment/uncomment appropriate lines in the sec
 
 ![Demo](https://github.com/zlatanajanovic/SBMP_PerfDriving/blob/master/drift_w_plan_IAVSD.gif "Demo")
 
+In the background, SBMP explores multiple potential trajectories. This is a slowed-down visualization.
+
+![Exploration](https://github.com/zlatanajanovic/SBMP_PerfDriving/blob/master/exploration_corner.gif "Exploration")
+
 
 # Cite 
 If you found SBMP relevant for your research, please cite it as:
